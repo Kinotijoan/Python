@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"cmath": "cpp"
+		},
+		"vscode-pets.petSize": "large",
+		"vscode-pets.petType": "dog",
+		"vscode-pets.throwBallWithMouse": true
+	}
+}
